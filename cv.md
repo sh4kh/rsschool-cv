@@ -7,4 +7,11 @@
 **github:** [sh4kh](https://github.com/sh4kh)  
 ## About me: 
 Currently work as a technical support engineer and QA engineer. I really enjoy IT, that is why I would like to dive deeper into this area.  
-Hardworking, inquisitive, analytical mindset.  I like music, cinema and football.
+Hardworking, inquisitive, analytical mindset.  I like music, cinema and football.  
+## Skills  
+* HTML5
+* CSS, SCSS
+* JavaScript Basics
+* Git 
+* Jira, Confluence, Postman 
+* Chrome DevTools 
